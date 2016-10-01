@@ -1,0 +1,35 @@
+{
+  "name": "xServer",
+  "description": "一个微型服务器框架",
+  "version": "0.7.0",
+  "keywords": [
+    "xServer",
+    "XueYou"
+  ],
+  "maintainers": [
+    {
+      "name": "XueYou",
+      "email": "xueyoucd@gmail.com"
+    }
+  ],
+  "bugs": {
+    "mail": "xueyoucd@gmail.com",
+    "web": "http://weibo.com/gandiaomht"
+  },
+  "dependencies": {
+    "webkit": "1.2"
+  },
+  "license": "BSD-3-Clause",
+  "licenses": [
+    {
+      "type": "MyLicense",
+      "url": "http://github.com/owner/project/path/to/license"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/isaacs/npm.git"
+  },
+  "devDependencies": {
+  }
+}
